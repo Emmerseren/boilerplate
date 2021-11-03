@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainGradient:linear-gradient(0deg, rgba(176,210,231,1) 0%, rgba(255,255,255,1) 83%);
+$design:#ABCFE6;
+$designText:#184059;
+$careforyou: #FFB472;
+$careforyouText: #BF7B3F;
+$uptodate:#BFDDEF;
+$uptodateText:#5D8AA6;
+
+
+
+.Home{
+  display: grid;
+  background: $mainGradient;
+  height: 100vh;
+ 
+
+}
+
+.navContainer{
+  display: flex;
+  
+}
+
+.imgContainer{
+  display: flex;
+  justify-content: space-around;
+}

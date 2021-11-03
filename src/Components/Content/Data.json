@@ -1,0 +1,40 @@
+
+    
+    
+        {
+            "image": [
+                {
+                    "pic":"../assets/front-desktop/front-get-in-touch.png",
+                    "class": "One"
+                },
+                {
+                    "pic":"../assets/front-desktop/front-maintainable.png",
+                    "class": "Two"
+                },
+                {
+                    "pic":"../assets/front-desktop/front-what-we-do.png",
+                    "class": "Three"
+                }
+            ],
+
+            "navigation": [
+
+                {
+                    "navBox": "../assets/navigation/nav-1.png"
+                },
+
+                {
+                    "navBox": "../assets/navigation/nav-2.png"
+                },
+
+                {
+                    "navBox": "../assets/navigation/nav-3.png"
+                }
+
+            ]
+        }
+
+        
+ 
+
+
